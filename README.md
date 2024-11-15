@@ -8,7 +8,7 @@ My WIP long description
 * 🌍  I'm based in Sorocaba, SP, Brazil
 * ✉️  You can contact me at [joaowebber.jobs@gmail.com](mailto:joaowebber.jobs@gmail.com)
 * 🚀  Currently enhancing financial transactions and user experience at [CM Capital](https://cmcapital.com.br/)
-* 🗒️ Do you want to be a better developer? Check out my [Medium account](joaowebber.medium.com)
+* 🗒️ Do you want to take your developer skills to the next level? Check out my [Medium account](joaowebber.medium.com)
 * 🧠  Learning Highly scalable distributed services
 
 ### Skills
