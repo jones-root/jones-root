@@ -3,7 +3,7 @@ João Webber
 React & Node.js engineer
 ------------------------
 
-My WIP long description
+I am one that does not settle for mediocrity. My critical thinking and self-taught ability allow me to build successful products, and make existing ones to become greater.
 
 * 🌍  I'm based in Sorocaba, SP, Brazil
 * ✉️  You can contact me at [joaowebber.corp@gmail.com](mailto:joaowebber.corp@gmail.com)
