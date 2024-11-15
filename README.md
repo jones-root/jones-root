@@ -10,7 +10,7 @@ My WIP long description
 * 🖥️  See my portfolio at [WIP](http://wip-portfolio.com)
 * ✉️  You can contact me at [joaowebber.jobs@gmail.com](mailto:joaowebber.jobs@gmail.com)
 * 🚀  I'm currently working at [CM Capital](https://cmcapital.com.br/)
-* 🧠  I'm learning Amazon Web Services
+* 🧠  I'm learning Highly scalable distributed services
 
 ### Skills
 
