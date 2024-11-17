@@ -8,7 +8,7 @@ I am one that does not settle for mediocrity. My critical thinking and self-taug
 * 🌍  I'm based in Sorocaba, SP, Brazil
 * ✉️  You can contact me at [joaowebber.corp@gmail.com](mailto:joaowebber.corp@gmail.com)
 * 🚀  Currently enhancing financial transactions and user experience at [CM Capital](https://cmcapital.com.br/)
-* 🗒️ Do you want to take your developer skills to the next level? Check out my [Medium account](joaowebber.medium.com)
+* 🗒️ Do you want to take your developer skills to the next level? Check out my [Medium account](https://joaowebber.medium.com)
 * 🧠  Learning highly scalable distributed services
 
 ### Skills
