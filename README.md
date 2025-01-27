@@ -5,7 +5,7 @@ React & Node.js engineer
 
 I am one that does not settle for mediocrity. My critical thinking and self-taught ability allow me to build successful products, and make existing ones to become greater.
 
-* 🌍  I'm based in Sorocaba, SP, Brazil
+* 🌍  I'm based in Florianópolis, SC, Brazil
 * ✉️  You can contact me at [joaowebber.corp@gmail.com](mailto:joaowebber.corp@gmail.com)
 * 🚀  Currently enhancing financial transactions and user experience at [CM Capital](https://cmcapital.com.br/)
 * 🗒️ Do you want to take your skills to the next level? Check out my [Medium account](https://joaowebber.medium.com)
