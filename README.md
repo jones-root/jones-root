@@ -9,7 +9,7 @@ I am one that does not settle for mediocrity. My critical thinking and self-taug
 * ✉️  You can contact me at [joaowebber.corp@gmail.com](mailto:joaowebber.corp@gmail.com)
 * 🚀  Currently enhancing financial transactions and user experience at [CM Capital](https://cmcapital.com.br/)
 * 🗒️ Do you want to take your skills to the next level? Check out my [Medium account](https://joaowebber.medium.com)
-* 🧠  Engaged in highly scalable distributed services
+* 🧠  Highly scalable distributed services
 
 ### Skills
 
